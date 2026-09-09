@@ -49,4 +49,4 @@ At the begining of round two, nums = [5,4]. Now, first Alice removes 4 and then 
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 4 ms, Memory: 17.6 MB)
