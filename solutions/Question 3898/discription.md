@@ -76,4 +76,4 @@ There is only one vertex and it has no edges connected to it. Thus, the answer i
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`)
+- **[Solution1.c](./Solution1.c)** (`c`, Runtime: 3 ms, Memory: 18.4 MB)
