@@ -16,4 +16,4 @@ Given a **0-indexed** integer array `nums` of length `n` and an integer `target`
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 7 ms, Memory: 17.9 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 8 ms, Memory: 18.1 MB)
