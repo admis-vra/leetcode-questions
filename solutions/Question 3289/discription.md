@@ -55,4 +55,4 @@ The numbers 4 and 5 each appear twice in the array.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 7 ms, Memory: 17.8 MB)
