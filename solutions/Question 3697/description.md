@@ -59,7 +59,4 @@ We can express 102 as `100 + 2`. 102 is not a base-10 component, which means 2 b
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
-- **[Solution2.cpp](./Solution2.cpp)** (`cpp`)
-- **[Solution3.cpp](./Solution3.cpp)** (`cpp`)
-- **[Solution4.cpp](./Solution4.cpp)** (`cpp`)
+- **[Solution5.cpp](./Solution5.cpp)** (`cpp`, Runtime: 3 ms, Memory: 9.7 MB)
