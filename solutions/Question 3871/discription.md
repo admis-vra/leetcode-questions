@@ -52,4 +52,4 @@ The numbers `"1,000"`, `"1,001"`, and `"1,002"` each contain one comma, giving a
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.9 MB)
