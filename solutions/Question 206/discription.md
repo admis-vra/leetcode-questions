@@ -50,4 +50,4 @@ Given the `head` of a singly linked list, reverse the list, and return *the reve
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`, Runtime: 0 ms, Memory: 13.4 MB)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 13.3 MB)
