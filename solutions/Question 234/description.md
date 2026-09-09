@@ -42,4 +42,4 @@ Given the `head` of a singly linked list, return `true`* if it is a **palindrome
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 19 ms, Memory: 39.2 MB)
