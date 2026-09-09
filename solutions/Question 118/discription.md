@@ -39,4 +39,4 @@ In **Pascal's triangle**, each number is the sum of the two numbers directly abo
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.7 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 0 ms, Memory: 18 MB)
