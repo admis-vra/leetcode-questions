@@ -52,4 +52,4 @@ All numbers from 1 to 998 have fewer than four digits. Therefore, no commas are 
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.5 MB)
