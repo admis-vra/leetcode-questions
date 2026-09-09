@@ -63,4 +63,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.8 MB)
