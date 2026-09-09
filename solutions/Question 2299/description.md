@@ -62,4 +62,4 @@ Given a string `password`, return `true`* if it is a **strong** password*. Other
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.2 MB)
