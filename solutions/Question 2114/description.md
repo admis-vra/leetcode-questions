@@ -48,4 +48,4 @@ In this example, the second and third sentences (underlined) have the same numbe
 
 ### Solutions
 
-- **[Solution4.py](./Solution4.py)** (`python3`, Runtime: 3 ms, Memory: 18 MB)
+- **[Solution5.py](./Solution5.py)** (`python3`, Runtime: 0 ms, Memory: 17.9 MB)
