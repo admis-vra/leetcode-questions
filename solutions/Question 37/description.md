@@ -49,4 +49,4 @@ The `'.'` character indicates empty cells.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 1207 ms, Memory: 17.8 MB)
