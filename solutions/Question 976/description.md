@@ -45,4 +45,4 @@ As we cannot use any three side lengths to form a triangle of non-zero area, we 
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 16 ms, Memory: 18.7 MB)
