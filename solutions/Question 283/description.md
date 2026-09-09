@@ -44,4 +44,4 @@ Given an integer array `nums`, move all `0`'s to the end of it while maintaining
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 24.9 MB)
