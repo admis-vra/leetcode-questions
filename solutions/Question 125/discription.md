@@ -52,4 +52,4 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 7 ms, Memory: 19.3 MB)
