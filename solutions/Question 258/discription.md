@@ -45,4 +45,4 @@ Since 2 has only one digit, return it.
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 0 ms, Memory: 17.9 MB)
