@@ -41,4 +41,4 @@ ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]]
 
 ### Solutions
 
-- **[Solution4.cpp](./Solution4.cpp)** (`cpp`, Runtime: 4 ms, Memory: 21 MB)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 18.1 MB)
