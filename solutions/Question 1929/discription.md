@@ -18,4 +18,4 @@ Given an integer array `nums` of length `n`, you want to create an array `ans` o
 
 ### Solutions
 
-- **[Solution2.py](./Solution2.py)** (`python`, Runtime: 0 ms, Memory: 12.8 MB)
+- **[Solution3.py](./Solution3.py)** (`python`, Runtime: 0 ms, Memory: 12.8 MB)
