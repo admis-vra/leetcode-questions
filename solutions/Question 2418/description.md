@@ -51,4 +51,4 @@ Return `names`* sorted in **descending** order by the people's heights*.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 3 ms, Memory: 18.4 MB)
