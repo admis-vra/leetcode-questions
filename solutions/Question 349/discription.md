@@ -38,4 +38,4 @@ Given two integer arrays `nums1` and `nums2`, return *an array of their intersec
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 18 MB)
