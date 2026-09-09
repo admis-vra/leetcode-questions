@@ -65,4 +65,4 @@ Return the **minimum** number of operations required to make the sum of the arra
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.8 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 3 ms, Memory: 17.9 MB)
