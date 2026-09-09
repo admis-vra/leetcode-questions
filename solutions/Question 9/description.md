@@ -50,4 +50,4 @@ Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` othe
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.9 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 13 ms, Memory: 17.7 MB)
