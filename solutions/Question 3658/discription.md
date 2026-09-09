@@ -66,5 +66,4 @@ Hence, `GCD(sumOdd, sumEven) = GCD(25, 30) = 5`.
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`)
-- **[Solution2.py](./Solution2.py)** (`python3`)
+- **[Solution1.cpp](./Solution1.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.7 MB)
