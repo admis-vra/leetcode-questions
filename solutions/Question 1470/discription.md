@@ -59,4 +59,4 @@ Given the array `nums` consisting of `2n` elements in the form `[x1,x2,...,xn,y1
 
 ### Solutions
 
-- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 13.3 MB)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 58 ms, Memory: 17.8 MB)
