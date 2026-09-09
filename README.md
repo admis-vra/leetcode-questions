@@ -1,74 +1,74 @@
-# ⚡ LeetCode Solved Solutions
+# ⚡ LeetCode Solved Solutions & Explanations
 
-Auto-tracked & synced with [CodePath](https://github.com).
+Auto-tracked & synced with **CodePath** for [@admis-vra](https://github.com/admis-vra).
 
-### Total Solved: 63
+### 📊 Total Solved: 63
 
-| Problem | Difficulty | Topics | Solved Date |
-| :--- | :--- | :--- | :--- |
-| [1. Two Sum](solutions/Array/Easy-0001-two-sum.py) | Easy | Array, Hash Table | 2026-09-09 |
-| [7. Reverse Integer](solutions/Math/Medium-0007-reverse-integer.cpp) | Medium | Math | 2026-09-09 |
-| [9. Palindrome Number](solutions/Math/Easy-0009-palindrome-number.cpp) | Easy | Math | 2026-09-09 |
-| [13. Roman to Integer](solutions/Hash_Table/Easy-0013-roman-to-integer.cpp) | Easy | Hash Table, Math, String | 2026-09-09 |
-| [20. Valid Parentheses](solutions/String/Easy-0020-valid-parentheses.cpp) | Easy | String, Stack, Bracket Sequences | 2026-09-09 |
-| [26. Remove Duplicates from Sorted Array](solutions/Array/Easy-0026-remove-duplicates-from-sorted-array.cpp) | Easy | Array, Two Pointers | 2026-09-04 |
-| [27. Remove Element](solutions/Array/Easy-0027-remove-element.cpp) | Easy | Array, Two Pointers | 2026-09-09 |
-| [28. Find the Index of the First Occurrence in a String](solutions/Two_Pointers/Easy-0028-find-the-index-of-the-first-occurrence-in-a-string.cpp) | Easy | Two Pointers, String, String Matching | 2026-09-09 |
-| [29. Divide Two Integers](solutions/Math/Medium-0029-divide-two-integers.cpp) | Medium | Math, Bit Manipulation | 2026-09-09 |
-| [35. Search Insert Position](solutions/Array/Easy-0035-search-insert-position.cpp) | Easy | Array, Binary Search | 2026-09-09 |
-| [37. Sudoku Solver](solutions/Array/Hard-0037-sudoku-solver.cpp) | Hard | Array, Hash Table, Backtracking | 2026-09-09 |
-| [50. Pow(x, n)](solutions/Math/Medium-0050-powx-n.cpp) | Medium | Math, Recursion | 2026-09-09 |
-| [58. Length of Last Word](solutions/String/Easy-0058-length-of-last-word.cpp) | Easy | String | 2026-09-09 |
-| [66. Plus One](solutions/Array/Easy-0066-plus-one.cpp) | Easy | Array, Math | 2026-09-09 |
-| [69. Sqrt(x)](solutions/Math/Easy-0069-sqrtx.cpp) | Easy | Math, Binary Search, Newton's Method | 2026-09-09 |
-| [70. Climbing Stairs](solutions/Math/Easy-0070-climbing-stairs.cpp) | Easy | Math, Dynamic Programming, Memoization | 2026-09-09 |
-| [83. Remove Duplicates from Sorted List](solutions/Linked_List/Easy-0083-remove-duplicates-from-sorted-list.cpp) | Easy | Linked List | 2026-09-09 |
-| [88. Merge Sorted Array](solutions/Array/Easy-0088-merge-sorted-array.cpp) | Easy | Array, Two Pointers, Sorting | 2026-09-09 |
-| [118. Pascal's Triangle](solutions/Array/Easy-0118-pascals-triangle.cpp) | Easy | Array, Dynamic Programming | 2026-09-09 |
-| [125. Valid Palindrome](solutions/Two_Pointers/Easy-0125-valid-palindrome.cpp) | Easy | Two Pointers, String | 2026-09-09 |
-| [136. Single Number](solutions/Array/Easy-0136-single-number.cpp) | Easy | Array, Bit Manipulation | 2026-09-09 |
-| [169. Majority Element](solutions/Array/Easy-0169-majority-element.cpp) | Easy | Array, Hash Table, Divide and Conquer | 2026-09-09 |
-| [182. Duplicate Emails](solutions/Database/Easy-0182-duplicate-emails.cpp) | Easy | Database | 2026-09-09 |
-| [206. Reverse Linked List](solutions/Linked_List/Easy-0206-reverse-linked-list.py) | Easy | Linked List, Recursion | 2026-08-22 |
-| [217. Contains Duplicate](solutions/Array/Easy-0217-contains-duplicate.cpp) | Easy | Array, Hash Table, Sorting | 2026-09-07 |
-| [231. Power of Two](solutions/Math/Easy-0231-power-of-two.cpp) | Easy | Math, Bit Manipulation, Recursion | 2026-09-09 |
-| [234. Palindrome Linked List](solutions/Linked_List/Easy-0234-palindrome-linked-list.cpp) | Easy | Linked List, Two Pointers, Stack | 2026-09-09 |
-| [242. Valid Anagram](solutions/Hash_Table/Easy-0242-valid-anagram.cpp) | Easy | Hash Table, String, Sorting | 2026-09-09 |
-| [258. Add Digits](solutions/Math/Easy-0258-add-digits.py) | Easy | Math, Simulation, Number Theory | 2025-10-03 |
-| [283. Move Zeroes](solutions/Array/Easy-0283-move-zeroes.cpp) | Easy | Array, Two Pointers | 2026-09-09 |
-| [326. Power of Three](solutions/Math/Easy-0326-power-of-three.cpp) | Easy | Math, Recursion | 2026-09-09 |
-| [342. Power of Four](solutions/Math/Easy-0342-power-of-four.cpp) | Easy | Math, Bit Manipulation, Recursion | 2026-09-09 |
-| [349. Intersection of Two Arrays](solutions/Array/Easy-0349-intersection-of-two-arrays.cpp) | Easy | Array, Hash Table, Two Pointers | 2026-09-09 |
-| [350. Intersection of Two Arrays II](solutions/Array/Easy-0350-intersection-of-two-arrays-ii.cpp) | Easy | Array, Hash Table, Two Pointers | 2026-09-09 |
-| [367. Valid Perfect Square](solutions/Math/Easy-0367-valid-perfect-square.cpp) | Easy | Math, Binary Search | 2026-09-09 |
-| [633. Sum of Square Numbers](solutions/Math/Medium-0633-sum-of-square-numbers.cpp) | Medium | Math, Two Pointers, Binary Search | 2026-09-09 |
-| [812. Largest Triangle Area](solutions/Array/Easy-0812-largest-triangle-area.cpp) | Easy | Array, Math, Geometry | 2026-09-09 |
-| [976. Largest Perimeter Triangle](solutions/Array/Easy-0976-largest-perimeter-triangle.cpp) | Easy | Array, Math, Greedy | 2026-09-09 |
-| [1290. Convert Binary Number in a Linked List to Integer](solutions/Linked_List/Easy-1290-convert-binary-number-in-a-linked-list-to-integer.cpp) | Easy | Linked List, Math | 2026-08-22 |
-| [1470. Shuffle the Array](solutions/Array/Easy-1470-shuffle-the-array.cpp) | Easy | Array | 2026-09-07 |
-| [1480. Running Sum of 1d Array](solutions/Array/Easy-1480-running-sum-of-1d-array.cpp) | Easy | Array, Prefix Sum | 2026-09-07 |
-| [1512. Number of Good Pairs](solutions/Array/Easy-1512-number-of-good-pairs.cpp) | Easy | Array, Hash Table, Math | 2026-09-09 |
-| [1672. Richest Customer Wealth](solutions/Array/Easy-1672-richest-customer-wealth.cpp) | Easy | Array, Matrix | 2026-09-09 |
-| [1823. Find the Winner of the Circular Game](solutions/Array/Medium-1823-find-the-winner-of-the-circular-game.cpp) | Medium | Array, Math, Recursion | 2026-09-09 |
-| [1920. Build Array from Permutation](solutions/Array/Easy-1920-build-array-from-permutation.cpp) | Easy | Array, Simulation | 2026-09-07 |
-| [1929. Concatenation of Array](solutions/Array/Easy-1929-concatenation-of-array.cpp) | Easy | Array, Simulation | 2026-09-09 |
-| [2000. Reverse Prefix of Word](solutions/Two_Pointers/Easy-2000-reverse-prefix-of-word.cpp) | Easy | Two Pointers, String, Stack | 2026-09-09 |
-| [2011. Final Value of Variable After Performing Operations](solutions/Array/Easy-2011-final-value-of-variable-after-performing-operations.cpp) | Easy | Array, String, Simulation | 2026-09-09 |
-| [2114. Maximum Number of Words Found in Sentences](solutions/Array/Easy-2114-maximum-number-of-words-found-in-sentences.cpp) | Easy | Array, String | 2026-09-09 |
-| [2299. Strong Password Checker II](solutions/String/Easy-2299-strong-password-checker-ii.cpp) | Easy | String | 2026-09-06 |
-| [2418. Sort the People](solutions/Array/Easy-2418-sort-the-people.cpp) | Easy | Array, Hash Table, String | 2026-09-09 |
-| [2824. Count Pairs Whose Sum is Less than Target](solutions/Array/Easy-2824-count-pairs-whose-sum-is-less-than-target.cpp) | Easy | Array, Two Pointers, Binary Search | 2026-09-09 |
-| [2974. Minimum Number Game](solutions/Array/Easy-2974-minimum-number-game.cpp) | Easy | Array, Sorting, Heap (Priority Queue) | 2026-09-09 |
-| [3005. Count Elements With Maximum Frequency](solutions/Array/Easy-3005-count-elements-with-maximum-frequency.cpp) | Easy | Array, Hash Table, Counting | 2026-09-09 |
-| [3190. Find Minimum Operations to Make All Elements Divisible by Three](solutions/Array/Easy-3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | Easy | Array, Math | 2026-09-09 |
-| [3289. The Two Sneaky Numbers of Digitville](solutions/Array/Easy-3289-the-two-sneaky-numbers-of-digitville.cpp) | Easy | Array, Hash Table, Math | 2026-09-09 |
-| [3467. Transform Array by Parity](solutions/Array/Easy-3467-transform-array-by-parity.cpp) | Easy | Array, Sorting, Counting | 2026-09-09 |
-| [3512. Minimum Operations to Make Array Sum Divisible by K](solutions/Array/Easy-3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp) | Easy | Array, Math | 2026-09-09 |
-| [3658. GCD of Odd and Even Sums](solutions/Math/Easy-3658-gcd-of-odd-and-even-sums.py) | Easy | Math, Number Theory | 2026-08-12 |
-| [3697. Compute Decimal Representation](solutions/Array/Easy-3697-compute-decimal-representation.cpp) | Easy | Array, Math | 2026-09-09 |
-| [3870. Count Commas in Range](solutions/Math/Easy-3870-count-commas-in-range.cpp) | Easy | Math | 2026-09-08 |
-| [3871. Count Commas in Range II](solutions/Math/Medium-3871-count-commas-in-range-ii.cpp) | Medium | Math | 2026-09-09 |
-| [3898. Find the Degree of Each Vertex](solutions/Array/Easy-3898-find-the-degree-of-each-vertex.py) | Easy | Array, Graph Theory, Matrix | 2026-07-17 |
+| # | Problem | Difficulty | Topics | Question & Description | Solution Code | Solved Date |
+| :-: | :--- | :--- | :--- | :---: | :---: | :--- |
+| #1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | Array, Hash Table | [📄 Description](./solutions/Array/Easy-0001-two-sum.md) | [💻 Solution](./solutions/Array/Easy-0001-two-sum.py) | 2026-09-09 |
+| #7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `Medium` | Math | [📄 Description](./solutions/Math/Medium-0007-reverse-integer.md) | [💻 Solution](./solutions/Math/Medium-0007-reverse-integer.cpp) | 2026-09-09 |
+| #9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `Easy` | Math | [📄 Description](./solutions/Math/Easy-0009-palindrome-number.md) | [💻 Solution](./solutions/Math/Easy-0009-palindrome-number.cpp) | 2026-09-09 |
+| #13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | Hash Table, Math, String | [📄 Description](./solutions/Hash_Table/Easy-0013-roman-to-integer.md) | [💻 Solution](./solutions/Hash_Table/Easy-0013-roman-to-integer.cpp) | 2026-09-09 |
+| #20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | String, Stack, Bracket Sequences | [📄 Description](./solutions/String/Easy-0020-valid-parentheses.md) | [💻 Solution](./solutions/String/Easy-0020-valid-parentheses.cpp) | 2026-09-09 |
+| #26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | Array, Two Pointers | [📄 Description](./solutions/Array/Easy-0026-remove-duplicates-from-sorted-array.md) | [💻 Solution](./solutions/Array/Easy-0026-remove-duplicates-from-sorted-array.cpp) | 2026-09-04 |
+| #27 | [Remove Element](https://leetcode.com/problems/remove-element/) | `Easy` | Array, Two Pointers | [📄 Description](./solutions/Array/Easy-0027-remove-element.md) | [💻 Solution](./solutions/Array/Easy-0027-remove-element.cpp) | 2026-09-09 |
+| #28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | `Easy` | Two Pointers, String, String Matching | [📄 Description](./solutions/Two_Pointers/Easy-0028-find-the-index-of-the-first-occurrence-in-a-string.md) | [💻 Solution](./solutions/Two_Pointers/Easy-0028-find-the-index-of-the-first-occurrence-in-a-string.cpp) | 2026-09-09 |
+| #29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `Medium` | Math, Bit Manipulation | [📄 Description](./solutions/Math/Medium-0029-divide-two-integers.md) | [💻 Solution](./solutions/Math/Medium-0029-divide-two-integers.cpp) | 2026-09-09 |
+| #35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Easy` | Array, Binary Search | [📄 Description](./solutions/Array/Easy-0035-search-insert-position.md) | [💻 Solution](./solutions/Array/Easy-0035-search-insert-position.cpp) | 2026-09-09 |
+| #37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | `Hard` | Array, Hash Table, Backtracking | [📄 Description](./solutions/Array/Hard-0037-sudoku-solver.md) | [💻 Solution](./solutions/Array/Hard-0037-sudoku-solver.cpp) | 2026-09-09 |
+| #50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | `Medium` | Math, Recursion | [📄 Description](./solutions/Math/Medium-0050-powx-n.md) | [💻 Solution](./solutions/Math/Medium-0050-powx-n.cpp) | 2026-09-09 |
+| #58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | String | [📄 Description](./solutions/String/Easy-0058-length-of-last-word.md) | [💻 Solution](./solutions/String/Easy-0058-length-of-last-word.cpp) | 2026-09-09 |
+| #66 | [Plus One](https://leetcode.com/problems/plus-one/) | `Easy` | Array, Math | [📄 Description](./solutions/Array/Easy-0066-plus-one.md) | [💻 Solution](./solutions/Array/Easy-0066-plus-one.cpp) | 2026-09-09 |
+| #69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | `Easy` | Math, Binary Search, Newton's Method | [📄 Description](./solutions/Math/Easy-0069-sqrtx.md) | [💻 Solution](./solutions/Math/Easy-0069-sqrtx.cpp) | 2026-09-09 |
+| #70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | Math, Dynamic Programming, Memoization | [📄 Description](./solutions/Math/Easy-0070-climbing-stairs.md) | [💻 Solution](./solutions/Math/Easy-0070-climbing-stairs.cpp) | 2026-09-09 |
+| #83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `Easy` | Linked List | [📄 Description](./solutions/Linked_List/Easy-0083-remove-duplicates-from-sorted-list.md) | [💻 Solution](./solutions/Linked_List/Easy-0083-remove-duplicates-from-sorted-list.cpp) | 2026-09-09 |
+| #88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Easy` | Array, Two Pointers, Sorting | [📄 Description](./solutions/Array/Easy-0088-merge-sorted-array.md) | [💻 Solution](./solutions/Array/Easy-0088-merge-sorted-array.cpp) | 2026-09-09 |
+| #118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Easy` | Array, Dynamic Programming | [📄 Description](./solutions/Array/Easy-0118-pascals-triangle.md) | [💻 Solution](./solutions/Array/Easy-0118-pascals-triangle.cpp) | 2026-09-09 |
+| #125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | Two Pointers, String | [📄 Description](./solutions/Two_Pointers/Easy-0125-valid-palindrome.md) | [💻 Solution](./solutions/Two_Pointers/Easy-0125-valid-palindrome.cpp) | 2026-09-09 |
+| #136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | Array, Bit Manipulation | [📄 Description](./solutions/Array/Easy-0136-single-number.md) | [💻 Solution](./solutions/Array/Easy-0136-single-number.cpp) | 2026-09-09 |
+| #169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `Easy` | Array, Hash Table, Divide and Conquer | [📄 Description](./solutions/Array/Easy-0169-majority-element.md) | [💻 Solution](./solutions/Array/Easy-0169-majority-element.cpp) | 2026-09-09 |
+| #182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | `Easy` | Database | [📄 Description](./solutions/Database/Easy-0182-duplicate-emails.md) | [💻 Solution](./solutions/Database/Easy-0182-duplicate-emails.cpp) | 2026-09-09 |
+| #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | Linked List, Recursion | [📄 Description](./solutions/Linked_List/Easy-0206-reverse-linked-list.md) | [💻 Solution](./solutions/Linked_List/Easy-0206-reverse-linked-list.py) | 2026-08-22 |
+| #217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | Array, Hash Table, Sorting | [📄 Description](./solutions/Array/Easy-0217-contains-duplicate.md) | [💻 Solution](./solutions/Array/Easy-0217-contains-duplicate.cpp) | 2026-09-07 |
+| #231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `Easy` | Math, Bit Manipulation, Recursion | [📄 Description](./solutions/Math/Easy-0231-power-of-two.md) | [💻 Solution](./solutions/Math/Easy-0231-power-of-two.cpp) | 2026-09-09 |
+| #234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Easy` | Linked List, Two Pointers, Stack | [📄 Description](./solutions/Linked_List/Easy-0234-palindrome-linked-list.md) | [💻 Solution](./solutions/Linked_List/Easy-0234-palindrome-linked-list.cpp) | 2026-09-09 |
+| #242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | Hash Table, String, Sorting | [📄 Description](./solutions/Hash_Table/Easy-0242-valid-anagram.md) | [💻 Solution](./solutions/Hash_Table/Easy-0242-valid-anagram.cpp) | 2026-09-09 |
+| #258 | [Add Digits](https://leetcode.com/problems/add-digits/) | `Easy` | Math, Simulation, Number Theory | [📄 Description](./solutions/Math/Easy-0258-add-digits.md) | [💻 Solution](./solutions/Math/Easy-0258-add-digits.py) | 2025-10-03 |
+| #283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | Array, Two Pointers | [📄 Description](./solutions/Array/Easy-0283-move-zeroes.md) | [💻 Solution](./solutions/Array/Easy-0283-move-zeroes.cpp) | 2026-09-09 |
+| #326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | `Easy` | Math, Recursion | [📄 Description](./solutions/Math/Easy-0326-power-of-three.md) | [💻 Solution](./solutions/Math/Easy-0326-power-of-three.cpp) | 2026-09-09 |
+| #342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | `Easy` | Math, Bit Manipulation, Recursion | [📄 Description](./solutions/Math/Easy-0342-power-of-four.md) | [💻 Solution](./solutions/Math/Easy-0342-power-of-four.cpp) | 2026-09-09 |
+| #349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | `Easy` | Array, Hash Table, Two Pointers | [📄 Description](./solutions/Array/Easy-0349-intersection-of-two-arrays.md) | [💻 Solution](./solutions/Array/Easy-0349-intersection-of-two-arrays.cpp) | 2026-09-09 |
+| #350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | `Easy` | Array, Hash Table, Two Pointers | [📄 Description](./solutions/Array/Easy-0350-intersection-of-two-arrays-ii.md) | [💻 Solution](./solutions/Array/Easy-0350-intersection-of-two-arrays-ii.cpp) | 2026-09-09 |
+| #367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | `Easy` | Math, Binary Search | [📄 Description](./solutions/Math/Easy-0367-valid-perfect-square.md) | [💻 Solution](./solutions/Math/Easy-0367-valid-perfect-square.cpp) | 2026-09-09 |
+| #633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | `Medium` | Math, Two Pointers, Binary Search | [📄 Description](./solutions/Math/Medium-0633-sum-of-square-numbers.md) | [💻 Solution](./solutions/Math/Medium-0633-sum-of-square-numbers.cpp) | 2026-09-09 |
+| #812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | `Easy` | Array, Math, Geometry | [📄 Description](./solutions/Array/Easy-0812-largest-triangle-area.md) | [💻 Solution](./solutions/Array/Easy-0812-largest-triangle-area.cpp) | 2026-09-09 |
+| #976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | `Easy` | Array, Math, Greedy | [📄 Description](./solutions/Array/Easy-0976-largest-perimeter-triangle.md) | [💻 Solution](./solutions/Array/Easy-0976-largest-perimeter-triangle.cpp) | 2026-09-09 |
+| #1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | `Easy` | Linked List, Math | [📄 Description](./solutions/Linked_List/Easy-1290-convert-binary-number-in-a-linked-list-to-integer.md) | [💻 Solution](./solutions/Linked_List/Easy-1290-convert-binary-number-in-a-linked-list-to-integer.cpp) | 2026-08-22 |
+| #1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `Easy` | Array | [📄 Description](./solutions/Array/Easy-1470-shuffle-the-array.md) | [💻 Solution](./solutions/Array/Easy-1470-shuffle-the-array.cpp) | 2026-09-07 |
+| #1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Easy` | Array, Prefix Sum | [📄 Description](./solutions/Array/Easy-1480-running-sum-of-1d-array.md) | [💻 Solution](./solutions/Array/Easy-1480-running-sum-of-1d-array.cpp) | 2026-09-07 |
+| #1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | Array, Hash Table, Math | [📄 Description](./solutions/Array/Easy-1512-number-of-good-pairs.md) | [💻 Solution](./solutions/Array/Easy-1512-number-of-good-pairs.cpp) | 2026-09-09 |
+| #1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Easy` | Array, Matrix | [📄 Description](./solutions/Array/Easy-1672-richest-customer-wealth.md) | [💻 Solution](./solutions/Array/Easy-1672-richest-customer-wealth.cpp) | 2026-09-09 |
+| #1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | `Medium` | Array, Math, Recursion | [📄 Description](./solutions/Array/Medium-1823-find-the-winner-of-the-circular-game.md) | [💻 Solution](./solutions/Array/Medium-1823-find-the-winner-of-the-circular-game.cpp) | 2026-09-09 |
+| #1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | `Easy` | Array, Simulation | [📄 Description](./solutions/Array/Easy-1920-build-array-from-permutation.md) | [💻 Solution](./solutions/Array/Easy-1920-build-array-from-permutation.cpp) | 2026-09-07 |
+| #1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | `Easy` | Array, Simulation | [📄 Description](./solutions/Array/Easy-1929-concatenation-of-array.md) | [💻 Solution](./solutions/Array/Easy-1929-concatenation-of-array.cpp) | 2026-09-09 |
+| #2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | `Easy` | Two Pointers, String, Stack | [📄 Description](./solutions/Two_Pointers/Easy-2000-reverse-prefix-of-word.md) | [💻 Solution](./solutions/Two_Pointers/Easy-2000-reverse-prefix-of-word.cpp) | 2026-09-09 |
+| #2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | `Easy` | Array, String, Simulation | [📄 Description](./solutions/Array/Easy-2011-final-value-of-variable-after-performing-operations.md) | [💻 Solution](./solutions/Array/Easy-2011-final-value-of-variable-after-performing-operations.cpp) | 2026-09-09 |
+| #2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | `Easy` | Array, String | [📄 Description](./solutions/Array/Easy-2114-maximum-number-of-words-found-in-sentences.md) | [💻 Solution](./solutions/Array/Easy-2114-maximum-number-of-words-found-in-sentences.cpp) | 2026-09-09 |
+| #2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | `Easy` | String | [📄 Description](./solutions/String/Easy-2299-strong-password-checker-ii.md) | [💻 Solution](./solutions/String/Easy-2299-strong-password-checker-ii.cpp) | 2026-09-06 |
+| #2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | `Easy` | Array, Hash Table, String | [📄 Description](./solutions/Array/Easy-2418-sort-the-people.md) | [💻 Solution](./solutions/Array/Easy-2418-sort-the-people.cpp) | 2026-09-09 |
+| #2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | `Easy` | Array, Two Pointers, Binary Search | [📄 Description](./solutions/Array/Easy-2824-count-pairs-whose-sum-is-less-than-target.md) | [💻 Solution](./solutions/Array/Easy-2824-count-pairs-whose-sum-is-less-than-target.cpp) | 2026-09-09 |
+| #2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | `Easy` | Array, Sorting, Heap (Priority Queue) | [📄 Description](./solutions/Array/Easy-2974-minimum-number-game.md) | [💻 Solution](./solutions/Array/Easy-2974-minimum-number-game.cpp) | 2026-09-09 |
+| #3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | `Easy` | Array, Hash Table, Counting | [📄 Description](./solutions/Array/Easy-3005-count-elements-with-maximum-frequency.md) | [💻 Solution](./solutions/Array/Easy-3005-count-elements-with-maximum-frequency.cpp) | 2026-09-09 |
+| #3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | `Easy` | Array, Math | [📄 Description](./solutions/Array/Easy-3190-find-minimum-operations-to-make-all-elements-divisible-by-three.md) | [💻 Solution](./solutions/Array/Easy-3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 2026-09-09 |
+| #3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | `Easy` | Array, Hash Table, Math | [📄 Description](./solutions/Array/Easy-3289-the-two-sneaky-numbers-of-digitville.md) | [💻 Solution](./solutions/Array/Easy-3289-the-two-sneaky-numbers-of-digitville.cpp) | 2026-09-09 |
+| #3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | `Easy` | Array, Sorting, Counting | [📄 Description](./solutions/Array/Easy-3467-transform-array-by-parity.md) | [💻 Solution](./solutions/Array/Easy-3467-transform-array-by-parity.cpp) | 2026-09-09 |
+| #3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | `Easy` | Array, Math | [📄 Description](./solutions/Array/Easy-3512-minimum-operations-to-make-array-sum-divisible-by-k.md) | [💻 Solution](./solutions/Array/Easy-3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp) | 2026-09-09 |
+| #3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | `Easy` | Math, Number Theory | [📄 Description](./solutions/Math/Easy-3658-gcd-of-odd-and-even-sums.md) | [💻 Solution](./solutions/Math/Easy-3658-gcd-of-odd-and-even-sums.py) | 2026-08-12 |
+| #3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | `Easy` | Array, Math | [📄 Description](./solutions/Array/Easy-3697-compute-decimal-representation.md) | [💻 Solution](./solutions/Array/Easy-3697-compute-decimal-representation.cpp) | 2026-09-09 |
+| #3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | `Easy` | Math | [📄 Description](./solutions/Math/Easy-3870-count-commas-in-range.md) | [💻 Solution](./solutions/Math/Easy-3870-count-commas-in-range.cpp) | 2026-09-08 |
+| #3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | `Medium` | Math | [📄 Description](./solutions/Math/Medium-3871-count-commas-in-range-ii.md) | [💻 Solution](./solutions/Math/Medium-3871-count-commas-in-range-ii.cpp) | 2026-09-09 |
+| #3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | `Easy` | Array, Graph Theory, Matrix | [📄 Description](./solutions/Array/Easy-3898-find-the-degree-of-each-vertex.md) | [💻 Solution](./solutions/Array/Easy-3898-find-the-degree-of-each-vertex.py) | 2026-07-17 |
 
 ---
-*Updated automatically by CodePath Assistant.*
+*Generated automatically by [CodePath LeetCode Assistant](https://github.com).*
