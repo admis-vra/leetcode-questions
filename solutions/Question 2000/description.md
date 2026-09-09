@@ -55,4 +55,4 @@ You should not do any reverse operation, the resulting string is "abcd".
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.9 MB)
