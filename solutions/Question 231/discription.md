@@ -51,4 +51,4 @@ An integer `n` is a power of two, if there exists an integer `x` such that `n ==
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 24 ms, Memory: 17.7 MB)
