@@ -64,5 +64,4 @@ An input string is valid if:
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`, Runtime: 0 ms, Memory: 7.4 MB)
-- **[Solution2.cpp](./Solution2.cpp)** (`cpp`)
+- **[Solution3.cpp](./Solution3.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.6 MB)
