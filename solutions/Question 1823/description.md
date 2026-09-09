@@ -69,4 +69,4 @@ Could you solve this problem in linear time with constant space?
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 103 ms, Memory: 17.7 MB)
