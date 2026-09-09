@@ -66,4 +66,4 @@ Hence, `GCD(sumOdd, sumEven) = GCD(25, 30) = 5`.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`, Runtime: 0 ms, Memory: 8.7 MB)
+- **[Solution1.c](./Solution1.c)** (`c`, Runtime: 2 ms, Memory: 9.1 MB)
