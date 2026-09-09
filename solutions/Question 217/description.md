@@ -51,4 +51,4 @@ All elements are distinct.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 73 ms, Memory: 111.4 MB)
