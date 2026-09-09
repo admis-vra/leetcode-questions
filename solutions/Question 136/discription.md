@@ -47,4 +47,4 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 19.6 MB)
