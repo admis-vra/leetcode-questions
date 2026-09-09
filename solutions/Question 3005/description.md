@@ -45,4 +45,4 @@ So the number of elements in the array with maximum frequency is 5.
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.9 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 3 ms, Memory: 17.8 MB)
