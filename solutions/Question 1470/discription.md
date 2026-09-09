@@ -59,4 +59,4 @@ Given the array `nums` consisting of `2n` elements in the form `[x1,x2,...,xn,y1
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 13.3 MB)
