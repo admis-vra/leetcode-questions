@@ -46,4 +46,4 @@ The **most significant bit** is at the head of the linked list.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 0 ms, Memory: 10.7 MB)
