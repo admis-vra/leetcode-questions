@@ -18,4 +18,4 @@ A pair `(i, j)` is called *good* if `nums[i] == nums[j]` and `i`
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.7 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 3 ms, Memory: 17.9 MB)
