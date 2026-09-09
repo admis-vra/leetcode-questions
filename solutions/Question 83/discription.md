@@ -39,4 +39,4 @@ Given the `head` of a sorted linked list, *delete all duplicates such that each 
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.8 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 1 ms, Memory: 17.6 MB)
