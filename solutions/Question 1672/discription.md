@@ -59,4 +59,4 @@ The 2nd customer is the richest with a wealth of 10.
 
 ### Solutions
 
-- **[Solution3.cpp](./Solution3.cpp)** (`cpp`, Runtime: 0 ms, Memory: 11.3 MB)
+- **[Solution4.cpp](./Solution4.cpp)** (`cpp`, Runtime: 0 ms, Memory: 11.4 MB)
