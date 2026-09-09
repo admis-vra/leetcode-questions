@@ -59,4 +59,4 @@ The 2nd customer is the richest with a wealth of 10.
 
 ### Solutions
 
-- **[Solution4.cpp](./Solution4.cpp)** (`cpp`, Runtime: 0 ms, Memory: 11.4 MB)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.5 MB)
