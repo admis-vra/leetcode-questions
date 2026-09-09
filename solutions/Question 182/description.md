@@ -56,4 +56,4 @@ Person table:
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution2.txt](./Solution2.txt)** (`mysql`, Runtime: 361 ms, Memory: 0B)
