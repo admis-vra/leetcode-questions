@@ -58,4 +58,4 @@ You can return the answer in any order.
 
 ### Solutions
 
-- **[Solution4.cpp](./Solution4.cpp)** (`cpp`, Runtime: 71 ms, Memory: 14.1 MB)
+- **[Solution2.py](./Solution2.py)** (`python`, Runtime: 2049 ms, Memory: 13.3 MB)
