@@ -1,0 +1,14 @@
+/*
+ * Problem: 182. Duplicate Emails
+ * Difficulty: Easy
+ * Topics: Database
+ * URL: https://leetcode.com/problems/duplicate-emails/
+ * Runtime: 353 ms
+ * Memory: 0B
+ * Solved via CodePath Auto-Committer
+ */
+
+SELECT email
+FROM Person
+GROUP BY email
+HAVING COUNT(email) > 1;
