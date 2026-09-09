@@ -56,4 +56,4 @@ Person table:
 
 ### Solutions
 
-- **[Solution5.txt](./Solution5.txt)** (`mysql`, Runtime: 411 ms, Memory: 0B)
+- **[Solution6.txt](./Solution6.txt)** (`mysql`, Runtime: 349 ms, Memory: 0B)
