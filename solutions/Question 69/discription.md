@@ -44,4 +44,4 @@ You **must not use** any built-in exponent function or operator.
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 1 ms, Memory: 18 MB)
