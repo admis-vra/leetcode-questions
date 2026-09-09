@@ -41,4 +41,4 @@ Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `f
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 7 ms, Memory: 17.7 MB)
