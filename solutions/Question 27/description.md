@@ -39,4 +39,4 @@ for (int i = 0; i
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.8 MB)
