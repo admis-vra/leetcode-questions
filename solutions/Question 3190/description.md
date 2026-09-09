@@ -48,4 +48,4 @@ All array elements can be made divisible by 3 using 3 operations:
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 0 ms, Memory: 17.8 MB)
