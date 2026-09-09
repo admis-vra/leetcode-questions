@@ -38,4 +38,4 @@ Given an array of points on the **X-Y** plane `points` where `points[i] = [xi, y
 
 ### Solutions
 
-- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 35 ms, Memory: 18 MB)
+- **[Solution2.py](./Solution2.py)** (`python3`, Runtime: 48 ms, Memory: 17.6 MB)
