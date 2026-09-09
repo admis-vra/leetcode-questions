@@ -48,4 +48,4 @@ The majority element is the element that appears more than `&lfloor;n / 2&rfloor
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`)
+- **[Solution1.py](./Solution1.py)** (`python3`, Runtime: 15 ms, Memory: 19.4 MB)
