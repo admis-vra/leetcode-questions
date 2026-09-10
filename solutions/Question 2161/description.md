@@ -62,4 +62,4 @@ The relative ordering of the elements less than and greater than pivot is also m
 
 ### Solutions
 
-- **[Solution1.cpp](./Solution1.cpp)** (`cpp`, Runtime: 7 ms, Memory: 133.5 MB)
+- **[Solution2.cpp](./Solution2.cpp)** (`cpp`, Runtime: 11 ms, Memory: 133.3 MB)
