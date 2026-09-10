@@ -2,7 +2,7 @@
 
 Auto-tracked & synced with **CodePath** for [@admis-vra](https://github.com/admis-vra).
 
-### 📊 Total Solved: 153
+### 📊 Total Solved: 159
 
 | # | Problem | Difficulty | Topics | Question Description | Solution Code | Solved Date |
 | :-: | :--- | :---: | :--- | :---: | :---: | :--- |
@@ -68,6 +68,7 @@ Auto-tracked & synced with **CodePath** for [@admis-vra](https://github.com/admi
 | #182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | `Easy` | Database | [📄 Description](./solutions/Question%20182/description.md) | [💻 Solution](./solutions/Question%20182/Solution5.txt) | 2025-09-27 |
 | #182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | `Easy` | Database | [📄 Description](./solutions/Question%20182/description.md) | [💻 Solution](./solutions/Question%20182/Solution6.txt) | 2025-09-27 |
 | #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | Linked List, Recursion | [📄 Description](./solutions/Question%20206/description.md) | [💻 Solution](./solutions/Question%20206/Solution1.cpp) | 2026-08-22 |
+| #206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | Linked List, Recursion | [📄 Description](./solutions/Question%20206/description.md) | [💻 Solution](./solutions/Question%20206/Solution2.cpp) | 2026-08-22 |
 | #217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | Array, Hash Table, Sorting | [📄 Description](./solutions/Question%20217/description.md) | [💻 Solution](./solutions/Question%20217/Solution2.cpp) | 2026-09-07 |
 | #231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `Easy` | Math, Bit Manipulation, Recursion | [📄 Description](./solutions/Question%20231/description.md) | [💻 Solution](./solutions/Question%20231/Solution1.cpp) | 2026-09-09 |
 | #231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `Easy` | Math, Bit Manipulation, Recursion | [📄 Description](./solutions/Question%20231/description.md) | [💻 Solution](./solutions/Question%20231/Solution1.py) | 2025-09-23 |
@@ -127,6 +128,11 @@ Auto-tracked & synced with **CodePath** for [@admis-vra](https://github.com/admi
 | #2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | `Easy` | Array, String | [📄 Description](./solutions/Question%202114/description.md) | [💻 Solution](./solutions/Question%202114/Solution5.py) | 2025-09-25 |
 | #2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | `Easy` | Array, String | [📄 Description](./solutions/Question%202114/description.md) | [💻 Solution](./solutions/Question%202114/Solution6.py) | 2025-09-25 |
 | #2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | `Easy` | Array, String | [📄 Description](./solutions/Question%202114/description.md) | [💻 Solution](./solutions/Question%202114/Solution7.py) | 2025-09-25 |
+| #2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | `Medium` | Array, Two Pointers, Simulation | [📄 Description](./solutions/Question%202161/description.md) | [💻 Solution](./solutions/Question%202161/Solution1.cpp) | 2026-09-10 |
+| #2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | `Medium` | Array, Two Pointers, Simulation | [📄 Description](./solutions/Question%202161/description.md) | [💻 Solution](./solutions/Question%202161/Solution2.cpp) | 2026-09-10 |
+| #2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | `Medium` | Array, Two Pointers, Simulation | [📄 Description](./solutions/Question%202161/description.md) | [💻 Solution](./solutions/Question%202161/Solution3.cpp) | 2026-09-10 |
+| #2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | `Medium` | Array, Two Pointers, Simulation | [📄 Description](./solutions/Question%202161/description.md) | [💻 Solution](./solutions/Question%202161/Solution4.cpp) | 2026-09-10 |
+| #2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | `Medium` | Array, Two Pointers, Simulation | [📄 Description](./solutions/Question%202161/description.md) | [💻 Solution](./solutions/Question%202161/Solution5.cpp) | 2026-09-10 |
 | #2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | `Easy` | String | [📄 Description](./solutions/Question%202299/description.md) | [💻 Solution](./solutions/Question%202299/Solution2.cpp) | 2026-09-06 |
 | #2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | `Easy` | Array, Hash Table, String | [📄 Description](./solutions/Question%202418/description.md) | [💻 Solution](./solutions/Question%202418/Solution1.cpp) | 2026-09-09 |
 | #2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | `Easy` | Array, Hash Table, String | [📄 Description](./solutions/Question%202418/description.md) | [💻 Solution](./solutions/Question%202418/Solution1.py) | 2025-10-01 |
